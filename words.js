@@ -2,7 +2,7 @@ var lines2 = [
 
     ["blank"],
 
-    ["was creared by"],
+    ["was created by"],
 
     ["blank"],
 
