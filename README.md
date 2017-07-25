@@ -1,5 +1,5 @@
-# TRBMB-Gen
+# RonSwansonWisdomGen
 
-Code for my That Really Blanks my Blank Generator!
+Code for my Ron Swanson Wisdom Generator!
 
-Visit the website here: http://trbmb.chew.pw
+Visit the website here: not working
