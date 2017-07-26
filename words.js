@@ -1,12 +1,40 @@
 var lines2 = [
 
-    ["blank"],
+    ["Minecraft",
+"Terraria",
+"Political Correctness",
+"Bagels",
+"Dank Memes",
+"The Internet",
+"GitHub",
+"YouTube",
+"FNAF",
+"Undertale",
+"The word \"welp\""],
 
     ["was created by"],
 
-    ["blank"],
+    ["Facebook",
+"Amazon",
+"Team CStudios",
+"the mainstream media",
+"the Illuminati",
+"Bob The Bagel",
+"Twitter",
+"Chew",
+"MrJoCrafter"],
 
     ["to sell"],
 
-    ["blank"],
+    ["toys",
+"merchandise",
+"cards",
+"memes",
+"children",
+"games",
+"more food",
+"useless junk",
+"instruments",
+"tools",
+"books"],
 ];
