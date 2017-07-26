@@ -1,13 +1,14 @@
 function changeMessage(){
     var phrasetype = Math.floor(Math.random() * 2);
     if (phrasetype == 0) {
-    for(var i=0; i<5; i++){
+     for(var i=0; i<5; i++){
             document.getElementById(i+"line").innerHTML=lines2[i][(Math.floor(Math.random()*lines2[i].length))];
-    }
+     }
     }
     else {
         for(var i=0; i<5; i++){
             document.getElementById(i+"line").innerHTML=lines3[i][(Math.floor(Math.random()*lines3[i].length))];
+        }
     }
-    }
+    document.getElementById("startBttn").textContent = "Again?";
 }
