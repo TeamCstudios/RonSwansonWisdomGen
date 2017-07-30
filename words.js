@@ -10,7 +10,10 @@ var lines2 = [
 "YouTube",
 "FNAF",
 "Undertale",
-"The word \"welp\""],
+"The word \"welp\"",
+"Birthdays",
+"Calendars",
+"Cake"],
 
     ["was created by"],
 
@@ -36,11 +39,12 @@ var lines2 = [
 "useless junk",
 "instruments",
 "tools",
-"books"],
+"books",
+"albums"],
 ];
 
 var lines3 = [
-    
+
 ["Existing",
 "Crying",
 "Talking",
@@ -69,18 +73,5 @@ var lines3 = [
 "Making out",
 "loving"],
 
-    ["and"],
-
-    ["funerals",
-"the Grand Canyon",
-"birthday parties",
-"discussion boards",
-"4chan",
-"reddit",
-"YouTube comment sections",
-"anniversary parties",
-"meme parties",
-"Bob's funeral",
-"Making out",
-"loving"],
+    ["and"]
 ];
