@@ -12,7 +12,7 @@ function changeMessage(){
         }
     }
     else{
-        for(var i=0; i<5; i++){
+        for(var i=0; i<7; i++){
             document.getElementById(i+"line").innerHTML=lines4[i][(Math.floor(Math.random()*lines4[i].length))]
         }
     }
