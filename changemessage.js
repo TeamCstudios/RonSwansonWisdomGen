@@ -1,5 +1,5 @@
 function changeMessage(){
-    var phrasetype = Math.floor(Math.random() * 2);
+    var phrasetype = Math.floor(Math.random() * 3);
     if (phrasetype == 0) {
      for(var i=0; i<5; i++){
             document.getElementById(i+"line").innerHTML=lines2[i][(Math.floor(Math.random()*lines2[i].length))];
