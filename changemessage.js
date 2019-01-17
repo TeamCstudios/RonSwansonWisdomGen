@@ -14,6 +14,8 @@ function changeMessage(){
     else{
         for(var i=0; i<7; i++){
             document.getElementById(i+"line").innerHTML=lines4[i][(Math.floor(Math.random()*lines4[i].length))]
+            document.getElementById("4line").innerHTML=lines3[2][(Math.floor(Math.random()*lines3[3].length))];
+
         }
     }
     document.getElementById("startBttn").textContent = "Again?";
